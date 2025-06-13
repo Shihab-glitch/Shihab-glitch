@@ -1,2 +1,65 @@
-# Orion-sRepo
-Meh
+<div align="center">
+  
+  <h1> Shihab Ahmad <br/> (Shihab-glitch/Orion/OR10N)</h1>
+  
+  A Linux and FOSS enthusiast. Just tinkering with all kinds of stuff with my Laptop.
+
+</div>
+
+### Tools (Oldest to Newest - Still learning all)
+
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
+![Debian](https://img.shields.io/badge/-Debian-black?style=flat&logo=debian)
+![Fedora](https://img.shields.io/badge/-Fedora-black?style=flat&logo=fedora)
+![Nobara](https://img.shields.io/badge/-Nobara-black?style=flat&logo=nobaralinux)
+![Arch](https://img.shields.io/badge/-Arch-black?style=flat&logo=arch-linux)
+![Zsh](https://img.shields.io/badge/-Zsh-black?style=flat&logo=zsh)
+![VSCodium](https://img.shields.io/badge/-VSCodium-black?style=flat&logo=vscodium)
+![QEMU](https://img.shields.io/badge/-QEMU-black?style=flat&logo=qemu)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![CodeForces](https://img.shields.io/badge/-CodeForces-black?style=flat&logo=codeforces)
+![CodeBlocks](https://img.shields.io/badge/-Code::Blocks-black?style=flat&logo=codeblocks)
+![C](https://img.shields.io/badge/-C-black?style=flat&logo=c)
+![NeoVim](https://img.shields.io/badge/-NeoVim-black?style=flat&logo=neovim)
+![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust)
+![LaTeX](https://img.shields.io/badge/-LaTeX-black?style=flat&logo=latex)
+![Overleaf](https://img.shields.io/badge/-Overleaf-black?style=flat&logo=overleaf)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+![Ollama](https://img.shields.io/badge/-Ollama-black?style=flat&logo=ollama)
+
+<details open><summary><b>Setup (Laptop)</b></summary>
+<br/>
+  
+|**Model**| ASUS VivoBook X509DJ_D509DJ |
+|:-|:-|
+|**Processor**| AMD Ryzen 5 3500U (2.1 GHz - 3.7 GHz) |
+|**GPU-01**| NVIDIA GeForce MX230 |
+|**GPU-02**| AMD Radeon Vega 8 Graphics (Integrated) |
+|**Memory**| 12 GiB (4 GiB + 8 GiB) |
+|**Storage**| 128 GiB SSD + 1 TiB HDD |
+|**OS**| Arch Linux |
+
+</details>
+
+### 👷 Check out what I'm currently working on
+
+- [**galactic-fastfetch**](https://github.com/Shihab-glitch/galactic-fastfetch)
+
+  Fastfetch themes for the lovers of Galactic Adventures
+
+- [**Assiut-CodeForces-Solve-C**](https://github.com/Shihab-glitch/Assiut-CodeForces-Solve-C)
+
+  Just keeping my solutions of Assiut Sheets in a place. Feel free to use
+
+- [**Bee-Crowd-ProbSol-Beginner**](https://github.com/Shihab-glitch/Bee-Crowd-ProbSol-Beginner)
+
+  Solutions of Beginner Category Problems from BeeCrowd
+
+### Contacts
+
+[![email](https://img.shields.io/badge/-Shihab-black?style=flat&logo=gmail)](mailto:shihabahmadrafi13@gmail.com)
+[![instagram](https://img.shields.io/badge/-@shihabahmadrafi13-black?style=flat&logo=instagram)](https://www.instagram.com/shihabahmadrafi_13)
