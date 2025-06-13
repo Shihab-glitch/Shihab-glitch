@@ -36,7 +36,7 @@
   
 |**Model**| ASUS VivoBook X509DJ_D509DJ |
 |:-|:-|
-|**Processor**| AMD Ryzen 5 3500U (2.1 GHz - 3.7 GHz) |
+|**Processor**| AMD Ryzen 5 3500U (2.1 to 3.7 GHz) |
 |**GPU-01**| NVIDIA GeForce MX230 |
 |**GPU-02**| AMD Radeon Vega 8 Graphics (Integrated) |
 |**Memory**| 12 GiB (4 GiB + 8 GiB) |
