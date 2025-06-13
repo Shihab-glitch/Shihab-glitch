@@ -61,5 +61,5 @@
 
 ### Contacts
 
-[![email](https://img.shields.io/badge/-Shihab_Rafi-black?style=flat&logo=facebook)](https://www.facebook.com/shihaborion13/)
-[![instagram](https://img.shields.io/badge/-@shihabahmadrafi__13-black?style=flat&logo=instagram)](https://www.instagram.com/shihabahmadrafi_13)
+[![Facebook](https://img.shields.io/badge/-Shihab_Rafi-blue?style=flat&logo=facebook)](https://www.facebook.com/shihaborion13/)
+[![instagram](https://img.shields.io/badge/-@shihabahmadrafi__13-magenta?style=flat&logo=instagram)](https://www.instagram.com/shihabahmadrafi_13)
