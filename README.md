@@ -4,6 +4,8 @@
   
   A Linux and FOSS enthusiast. Just tinkering with all kinds of stuff with my Laptop.
 
+[![wakatime](https://wakatime.com/badge/user/b335757e-1df7-4798-9cb7-4c96f76e6362.svg)](https://wakatime.com/@b335757e-1df7-4798-9cb7-4c96f76e6362)
+
 </div>
 
 ### Tools (Oldest to Newest - Still learning all)
