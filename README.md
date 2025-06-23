@@ -4,10 +4,7 @@
   
   A Linux and FOSS enthusiast. Just tinkering with all kinds of stuff with my Laptop.
 
-[![wakatime](https://wakatime.com/badge/user/b335757e-1df7-4798-9cb7-4c96f76e6362.svg)](https://wakatime.com/@b335757e-1df7-4798-9cb7-4c96f76e6362)
-
-
-![Meme](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRrMXF4a2ZjMW45M3BzZzZ3bzNxZzZpdTN1Y3lnbXhjaTc2Z3B3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=shihab-glitch)
 
 </div>
 
