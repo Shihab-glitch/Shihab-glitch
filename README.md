@@ -4,8 +4,6 @@
   
   A Linux and FOSS enthusiast. Just tinkering with all kinds of stuff with my Laptop.
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=shihab-glitch)
-
 </div>
 
 <details open><summary><b>Tools that I use :</b></summary>
@@ -31,8 +29,8 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-black?style=flat&logo=latex)
 #### Platform(s) :
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
-![CodeForces](https://img.shields.io/badge/-CodeForces-black?style=flat&logo=codeforces)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-black?style=flat&logo=overleaf)
+![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=shihab-glitch)
 #### VMs, LLMs, Containers : 
 ![QEMU](https://img.shields.io/badge/-QEMU-black?style=flat&logo=qemu)
 ![Ollama](https://img.shields.io/badge/-Ollama-black?style=flat&logo=ollama)
