@@ -31,7 +31,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-black?style=flat&logo=overleaf)
 ![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=shihab-glitch)
-<img src="https://atrating.baoshuo.dev/rating?username=Orion13">
 
 #### VMs, LLMs, Containers : 
 ![QEMU](https://img.shields.io/badge/-QEMU-black?style=flat&logo=qemu)
