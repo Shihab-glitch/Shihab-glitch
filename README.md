@@ -21,6 +21,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-black?style=flat&logo=neovim)
 ![Zsh](https://img.shields.io/badge/-Zsh-black?style=flat&logo=zsh)
+![Arduino](https://img.shields.io/badge/Arduino-black?style=flat&logo=arduino&logoColor=00878F)
 #### Lang(s) : 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-black?style=flat&logo=c)
