@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1> Shihab Ahmad <br/> (Shihab-glitch/Orion/OR10N)</h1>
+  <h1> Shihab Ahmad </h1>
   
   A Linux and FOSS enthusiast. Just tinkering with all kinds of stuff with my Laptop.
 
@@ -18,10 +18,12 @@
 #### Coding Tools : 
 ![VSCodium](https://img.shields.io/badge/-VSCodium-black?style=flat&logo=vscodium)
 ![CodeBlocks](https://img.shields.io/badge/-Code::Blocks-black?style=flat&logo=codeblocks)
+![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat&logo=webstorm)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-black?style=flat&logo=neovim)
 ![Zsh](https://img.shields.io/badge/-Zsh-black?style=flat&logo=zsh)
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat&logo=arduino&logoColor=00878F)
+![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat&logo=espressif)
 #### Lang(s) : 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-black?style=flat&logo=c)
@@ -30,9 +32,9 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-black?style=flat&logo=latex)
 #### Platform(s) :
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
+![Codeberg](https://img.shields.io/badge/-Codeberg-black?style=flat&logo=codeberg)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-black?style=flat&logo=overleaf)
 ![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=shihab-glitch)
-
 #### VMs, LLMs, Containers : 
 ![QEMU](https://img.shields.io/badge/-QEMU-black?style=flat&logo=qemu)
 ![Ollama](https://img.shields.io/badge/-Ollama-black?style=flat&logo=ollama)
@@ -41,7 +43,7 @@
 
 </details>
 
-<details><summary><b>Setup (Laptop)</b></summary>
+<details open><summary><b>Setup (Laptop)</b></summary>
 <br/>
   
 |**Model**| ASUS VivoBook X509DJ_D509DJ |
@@ -50,8 +52,8 @@
 |**GPU-01**| NVIDIA GeForce MX230 |
 |**GPU-02**| AMD Radeon Vega 8 Graphics (Integrated) |
 |**Memory**| 12 GiB (4 GiB + 8 GiB) |
-|**Storage**| 128 GiB SSD + 1 TiB HDD |
-|**OS**| Arch Linux |
+|**Storage**| 128 GiB NVMe SSD + 1 TiB SATA SSD |
+|**OS**| Arch & Fedora |
 
 </details>
 
