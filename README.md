@@ -57,20 +57,6 @@
 
 </details>
 
-### 👷 Check out what I'm currently working on
-
-- [**galactic-fastfetch**](https://github.com/Shihab-glitch/galactic-fastfetch)
-
-  Fastfetch themes for the lovers of Galactic Adventures
-
-- [**Assiut-CodeForces-Solve-C**](https://github.com/Shihab-glitch/Assiut-CodeForces-Solve-C)
-
-  Just keeping my solutions of Assiut Sheets in a place. Feel free to use
-
-- [**Bee-Crowd-ProbSol-Beginner**](https://github.com/Shihab-glitch/Bee-Crowd-ProbSol-Beginner)
-
-  Solutions of Beginner Category Problems from BeeCrowd
-
 ### Contacts
 
 [![Facebook](https://img.shields.io/badge/-Shihab_Rafi-blue?style=flat&logo=facebook)](https://www.facebook.com/shihaborion13/)
