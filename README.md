@@ -34,7 +34,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 ![Codeberg](https://img.shields.io/badge/-Codeberg-black?style=flat&logo=codeberg)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-black?style=flat&logo=overleaf)
-![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=shihab-glitch)
+![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=shadow_glitch)
 #### VMs, LLMs, Containers : 
 ![QEMU](https://img.shields.io/badge/-QEMU-black?style=flat&logo=qemu)
 ![Ollama](https://img.shields.io/badge/-Ollama-black?style=flat&logo=ollama)
