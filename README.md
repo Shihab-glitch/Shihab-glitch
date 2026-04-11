@@ -4,10 +4,10 @@
 
 <p>Tinkering at the intersection of hardware, operating systems, and machine learning.</p>
 
-<a href="https://www.facebook.com/shihaborion13/">
+<a href="https://www.facebook.com/shihaborion13/"><br/>
   <img src="https://img.shields.io/badge/Facebook-Shihab_Rafi-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/shihabahmadrafi_13">
+</a><br/>
+<a href="https://www.instagram.com/shihabahmadrafi_13"><br/>
   <img src="https://img.shields.io/badge/Instagram-@shihabahmadrafi__13-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
