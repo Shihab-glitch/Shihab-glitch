@@ -21,7 +21,7 @@
 
 ```
 Focus   → ML Systems · OS internals · Hardware architecture
-Study   → Data Structures & Algorithms (C++) · Linux Kerel Inetrnals · AI/ML Basics 
+Study   → Data Structures & Algorithms (C++) · Linux Kernel Inetrnals · AI/ML Basics 
 Stack   → CachyOS · VS Code · fish · QEMU
 ```
 
@@ -30,25 +30,25 @@ Stack   → CachyOS · VS Code · fish · QEMU
 <details open><summary><b>Toolsets :</b></summary>
 
 #### OS :
-![CachyOS](https://img.shields.io/badge/-CachyOS-0d1117?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Arch](https://img.shields.io/badge/-Arch-0d1117?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Fedora](https://img.shields.io/badge/-Fedora-0d1117?style=for-the-badge&logo=fedora&logoColor=white)
+![CachyOS](https://img.shields.io/badge/-CachyOS-0d1117?style=for-the-badge&logo=arch-linux&logoColor=2F80ED)
+![Arch](https://img.shields.io/badge/-Arch-0d1117?style=for-the-badge&logo=arch-linux&logoColor=2F80ED)
+![Fedora](https://img.shields.io/badge/-Fedora-0d1117?style=for-the-badge&logo=fedora&logoColor=1877F2)
 ![Nobara](https://img.shields.io/badge/-Nobara-0d1117?style=for-the-badge&logo=nobaralinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-0d1117?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian-0d1117?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-0d1117?style=for-the-badge&logo=ubuntu&logoColor=F05032)
+![Debian](https://img.shields.io/badge/-Debian-0d1117?style=for-the-badge&logo=debian&logoColor=E7352C)
 #### Shell & Editors : 
 ![Bash](https://img.shields.io/badge/-Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=white)
-![Zsh](https://img.shields.io/badge/-Zsh-0d1117?style=for-the-badge&logo=zsh&logoColor=white)
+![Zsh](https://img.shields.io/badge/-Zsh-0d1117?style=for-the-badge&logo=zsh&logoColor=F05032)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-0d1117?style=for-the-badge&logo=neovim&logoColor=57A143)
 ![VSCodium](https://img.shields.io/badge/-VSCodium-0d1117?style=for-the-badge&logo=vscodium&logoColor=2F80ED)
-![WebStorm](https://img.shields.io/badge/-WebStorm-0d1117?style=for-the-badge&logo=webstorm&logoColor=white)
+![Code::Blocks](https://img.shields.io/badge/-Codeblocks-0d1117?style=for-the-badge&logo=codeblocks&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 #### Lang(s) : 
-![C](https://img.shields.io/badge/-C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Rust](https://img.shields.io/badge/-Rust-0d1117?style=for-the-badge&logo=rust&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-0d1117?style=for-the-badge&logo=latex&logoColor=white)
+![C](https://img.shields.io/badge/-C(Dev)-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++(Main)-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python(AI/ML)-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Rust](https://img.shields.io/badge/-Rust(Learning)-0d1117?style=for-the-badge&logo=rust&logoColor=FF6600)
+![LaTeX](https://img.shields.io/badge/-LaTeX-0d1117?style=for-the-badge&logo=latex&logoColor=3776AB)
 #### Hardware & Embedded :
 ![Arduino](https://img.shields.io/badge/-Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=00878F)
 ![ESP32](https://img.shields.io/badge/-ESP32-0d1117?style=for-the-badge&logo=espressif&logoColor=E7352C)
@@ -59,6 +59,11 @@ Stack   → CachyOS · VS Code · fish · QEMU
 #### Virtualization & AI : 
 ![QEMU](https://img.shields.io/badge/-QEMU-0d1117?style=for-the-badge&logo=qemu&logoColor=FF6600)
 ![Ollama](https://img.shields.io/badge/-Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=white)
+#### AI Tools :
+![Claude](https://img.shields.io/badge/-Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-0d1117?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/-NotebookLM-0d1117?style=for-the-badge&logo=google&logoColor=white)
 
 </details>
 
