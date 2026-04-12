@@ -21,13 +21,13 @@
 
 ```
 Focus   → ML Systems · OS internals · Hardware architecture
-Study   → Algorithms & Data Structures (C++)
-Stack   → CachyOS · NeoVim · fish · QEMU
+Study   → Data Structures & Algorithms (C++) · Linux Kerel Inetrnals · AI/ML Basics 
+Stack   → CachyOS · VS Code · fish · QEMU
 ```
 
 ---
 
-<details open><summary><b>Tools that I use :</b></summary>
+<details open><summary><b>Toolsets :</b></summary>
 
 #### OS :
 ![CachyOS](https://img.shields.io/badge/-CachyOS-0d1117?style=for-the-badge&logo=arch-linux&logoColor=white)
@@ -62,16 +62,18 @@ Stack   → CachyOS · NeoVim · fish · QEMU
 
 </details>
 
+<div align="center">
 <details open><summary><b>Setup (Laptop)</b></summary>
 <br/>
   
 |**Model**| ASUS VivoBook X509DJ_D509DJ |
 |:-|:-|
-|**Processor**| AMD Ryzen 5 3500U (2.1 to 3.7 GHz) |
-|**GPU-01**| NVIDIA GeForce MX230 |
-|**GPU-02**| AMD Radeon Vega 8 Graphics (Integrated) |
+|**Processor**| AMD Ryzen 5 3500U (2.1 - 3.7 GHz) |
+|**GPU-01**| AMD Radeon Vega 8 Graphics (Integrated) |
+|**GPU-02**| NVIDIA GeForce MX230 |
 |**Memory**| 12 GiB (4 GiB + 8 GiB) |
 |**Storage**| 128 GiB NVMe SSD + 1 TiB SATA SSD |
-|**OS**| Arch & Fedora |
+|**OS**| CachyOS (Current), Arch (Vanilla) |
 
 </details>
+</div>
