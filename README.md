@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shihab+Ahmad;CS+Student+%C2%B7+ML+Systems;Linux+%26+FOSS+Enthusiast" alt="Typing SVG" />
 
-<p>Tinkering at the intersection of hardware, operating systems, and machine learning.</p>
+<p>Tinkering at the intersection of hardware, operating systems & machine learning.</p>
 
 <a href="https://www.facebook.com/shihaborion13/"><br/>
   <img src="https://img.shields.io/badge/Facebook-Shihab_Rafi-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
